@@ -26,7 +26,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Update generated README
-          branch: master
+          branch: develop
           commit_user_name: plozmun
           commit_user_email: lozanomunarriz@gmail.com
           commit_author: plozmun <lozanomunarriz@gmail.com>
