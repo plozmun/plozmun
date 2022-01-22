@@ -13,7 +13,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (9 months ago)
 - [sulu/SuluThemeBundle](https://github.com/sulu/SuluThemeBundle) -  (10 months ago)
 - [the-cocktail/SuluMegamenuBundle](https://github.com/the-cocktail/SuluMegamenuBundle) - Create complex tree menus in Sulu CMS (10 months ago)
-- [Sylius/SyliusThemeBundle](https://github.com/Sylius/SyliusThemeBundle) - Theming for Symfony, supports templates, assets and translations. (10 months ago)
+- [Sylius/SyliusThemeBundle](https://github.com/Sylius/SyliusThemeBundle) - Theming for Symfony, supports templates, assets and translations. (11 months ago)
 
 ---
 
