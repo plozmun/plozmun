@@ -5,7 +5,8 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 ---
 #### 👷 Check out what I'm currently working on
 
-- [plozmun/plozmun.github.io](https://github.com/plozmun/plozmun.github.io) - Pablo Lozano Portfolio (1 day ago)
+- [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) - PHP Faker integration with Behat (1 day ago)
+- [plozmun/plozmun.github.io](https://github.com/plozmun/plozmun.github.io) - Pablo Lozano Portfolio (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [the-cocktail/SuluSchemaOrgBundle](https://github.com/the-cocktail/SuluSchemaOrgBundle) - Structured Data integration with Sulu projects (4 months ago)
 - [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io (4 months ago)
@@ -13,12 +14,12 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (9 months ago)
 - [sulu/sulu-docs](https://github.com/sulu/sulu-docs) - Sulu documentation (9 months ago)
 - [sulu/SuluThemeBundle](https://github.com/sulu/SuluThemeBundle) -  (10 months ago)
-- [the-cocktail/SuluMegamenuBundle](https://github.com/the-cocktail/SuluMegamenuBundle) - Create complex tree menus in Sulu CMS (10 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) ([0.2.1](https://github.com/plozmun/BehatFakerExtension/releases/tag/0.2.1), 1 day ago) - PHP Faker integration with Behat
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.2](https://github.com/symfony/symfony/releases/tag/v6.0.2), 3 weeks ago) - The Symfony PHP framework
 - [sulu/sulu](https://github.com/sulu/sulu) ([2.4.0](https://github.com/sulu/sulu/releases/tag/2.4.0), 1 month ago) - Core framework that implements the functionality of the Sulu content management system
 - [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) ([2.2.1](https://github.com/sulu/SuluFormBundle/releases/tag/2.2.1), 1 month ago) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io
