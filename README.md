@@ -5,7 +5,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 ---
 #### 👷 Check out what I'm currently working on
 
-- [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) - PHP Faker integration with Behat (1 week ago)
+- [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) - PHP Faker integration with Behat (2 weeks ago)
 - [thank-you-php/thank-you-php](https://github.com/thank-you-php/thank-you-php) - Give thanks to PHP - An open letter of gratitude to PHP (2 weeks ago)
 - [plozmun/plozmun.github.io](https://github.com/plozmun/plozmun.github.io) - Pablo Lozano Portfolio (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 weeks ago)
