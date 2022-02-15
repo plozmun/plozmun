@@ -5,7 +5,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 ---
 #### 👷 Check out what I'm currently working on
 
-- [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) - PHP Faker integration with Behat (2 weeks ago)
+- [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) - PHP Faker integration with Behat (3 weeks ago)
 - [thank-you-php/thank-you-php](https://github.com/thank-you-php/thank-you-php) - Give thanks to PHP - An open letter of gratitude to PHP (3 weeks ago)
 - [plozmun/plozmun.github.io](https://github.com/plozmun/plozmun.github.io) - Pablo Lozano Portfolio (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
@@ -25,7 +25,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 - [sulu/sulu](https://github.com/sulu/sulu) ([2.4.0](https://github.com/sulu/sulu/releases/tag/2.4.0), 2 months ago) - Core framework that implements the functionality of the Sulu content management system
 - [the-cocktail/SuluSchemaOrgBundle](https://github.com/the-cocktail/SuluSchemaOrgBundle) ([v1.0.8](https://github.com/the-cocktail/SuluSchemaOrgBundle/releases/tag/v1.0.8), 5 months ago) - Structured Data integration with Sulu projects
 - [crevillo/ezplatform-tinymce-html-fieldtype](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype) ([1.0.3](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype/releases/tag/1.0.3), 8 months ago) - 
-- [sulu/SuluThemeBundle](https://github.com/sulu/SuluThemeBundle) ([3.0.2](https://github.com/sulu/SuluThemeBundle/releases/tag/3.0.2), 10 months ago) - 
+- [sulu/SuluThemeBundle](https://github.com/sulu/SuluThemeBundle) ([3.0.2](https://github.com/sulu/SuluThemeBundle/releases/tag/3.0.2), 11 months ago) - 
 - [the-cocktail/SuluMegamenuBundle](https://github.com/the-cocktail/SuluMegamenuBundle) ([v1.0.3](https://github.com/the-cocktail/SuluMegamenuBundle/releases/tag/v1.0.3), 11 months ago) - Create complex tree menus in Sulu CMS
 - [Sylius/SyliusThemeBundle](https://github.com/Sylius/SyliusThemeBundle) ([v2.2.0](https://github.com/Sylius/SyliusThemeBundle/releases/tag/v2.2.0), 11 months ago) - Theming for Symfony, supports templates, assets and translations.
 
