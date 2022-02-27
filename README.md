@@ -27,7 +27,6 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 - [crevillo/ezplatform-tinymce-html-fieldtype](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype) ([1.0.3](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype/releases/tag/1.0.3), 9 months ago) - 
 - [sulu/SuluThemeBundle](https://github.com/sulu/SuluThemeBundle) ([3.0.2](https://github.com/sulu/SuluThemeBundle/releases/tag/3.0.2), 11 months ago) - 
 - [the-cocktail/SuluMegamenuBundle](https://github.com/the-cocktail/SuluMegamenuBundle) ([v1.0.3](https://github.com/the-cocktail/SuluMegamenuBundle/releases/tag/v1.0.3), 11 months ago) - Create complex tree menus in Sulu CMS
-- [Sylius/SyliusThemeBundle](https://github.com/Sylius/SyliusThemeBundle) ([v2.2.0](https://github.com/Sylius/SyliusThemeBundle/releases/tag/v2.2.0), 11 months ago) - Theming for Symfony, supports templates, assets and translations.
 
 ---
 
