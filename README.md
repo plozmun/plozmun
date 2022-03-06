@@ -19,8 +19,8 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 
 #### 🔭 Latest releases I've contributed to
 
-- [sulu/sulu](https://github.com/sulu/sulu) ([2.4.1](https://github.com/sulu/sulu/releases/tag/2.4.1), 2 days ago) - Core framework that implements the functionality of the Sulu content management system
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.16](https://github.com/symfony/symfony/releases/tag/v5.3.16), 4 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.6](https://github.com/symfony/symfony/releases/tag/v6.0.6), 1 day ago) - The Symfony PHP framework
+- [sulu/sulu](https://github.com/sulu/sulu) ([2.4.1](https://github.com/sulu/sulu/releases/tag/2.4.1), 3 days ago) - Core framework that implements the functionality of the Sulu content management system
 - [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) ([0.2.3](https://github.com/plozmun/BehatFakerExtension/releases/tag/0.2.3), 1 month ago) - PHP Faker integration with Behat
 - [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) ([2.3.0](https://github.com/sulu/SuluFormBundle/releases/tag/2.3.0), 1 month ago) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io
 - [the-cocktail/SuluSchemaOrgBundle](https://github.com/the-cocktail/SuluSchemaOrgBundle) ([v1.0.8](https://github.com/the-cocktail/SuluSchemaOrgBundle/releases/tag/v1.0.8), 5 months ago) - Structured Data integration with Sulu projects
