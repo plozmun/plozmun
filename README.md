@@ -26,7 +26,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 - [the-cocktail/SuluSchemaOrgBundle](https://github.com/the-cocktail/SuluSchemaOrgBundle) ([v1.0.8](https://github.com/the-cocktail/SuluSchemaOrgBundle/releases/tag/v1.0.8), 6 months ago) - Structured Data integration with Sulu projects
 - [crevillo/ezplatform-tinymce-html-fieldtype](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype) ([1.0.3](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype/releases/tag/1.0.3), 9 months ago) - 
 - [sulu/SuluThemeBundle](https://github.com/sulu/SuluThemeBundle) ([3.0.2](https://github.com/sulu/SuluThemeBundle/releases/tag/3.0.2), 11 months ago) - 
-- [the-cocktail/SuluMegamenuBundle](https://github.com/the-cocktail/SuluMegamenuBundle) ([v1.0.3](https://github.com/the-cocktail/SuluMegamenuBundle/releases/tag/v1.0.3), 11 months ago) - Create complex tree menus in Sulu CMS
+- [the-cocktail/SuluMegamenuBundle](https://github.com/the-cocktail/SuluMegamenuBundle) ([v1.0.3](https://github.com/the-cocktail/SuluMegamenuBundle/releases/tag/v1.0.3), 1 year ago) - Create complex tree menus in Sulu CMS
 
 ---
 
