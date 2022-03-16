@@ -12,8 +12,8 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 - [the-cocktail/SuluSchemaOrgBundle](https://github.com/the-cocktail/SuluSchemaOrgBundle) - Structured Data integration with Sulu projects (6 months ago)
 - [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io (6 months ago)
 - [crevillo/ezplatform-tinymce-html-fieldtype](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype) -  (9 months ago)
-- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (10 months ago)
-- [sulu/sulu-docs](https://github.com/sulu/sulu-docs) - Sulu documentation (10 months ago)
+- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (11 months ago)
+- [sulu/sulu-docs](https://github.com/sulu/sulu-docs) - Sulu documentation (11 months ago)
 
 ---
 
