@@ -11,7 +11,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
 - [the-cocktail/SuluSchemaOrgBundle](https://github.com/the-cocktail/SuluSchemaOrgBundle) - Structured Data integration with Sulu projects (6 months ago)
 - [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io (6 months ago)
-- [crevillo/ezplatform-tinymce-html-fieldtype](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype) -  (9 months ago)
+- [crevillo/ezplatform-tinymce-html-fieldtype](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype) -  (10 months ago)
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (11 months ago)
 - [sulu/sulu-docs](https://github.com/sulu/sulu-docs) - Sulu documentation (11 months ago)
 
@@ -24,7 +24,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 - [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) ([0.2.3](https://github.com/plozmun/BehatFakerExtension/releases/tag/0.2.3), 2 months ago) - PHP Faker integration with Behat
 - [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) ([2.3.0](https://github.com/sulu/SuluFormBundle/releases/tag/2.3.0), 2 months ago) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io
 - [the-cocktail/SuluSchemaOrgBundle](https://github.com/the-cocktail/SuluSchemaOrgBundle) ([v1.0.8](https://github.com/the-cocktail/SuluSchemaOrgBundle/releases/tag/v1.0.8), 6 months ago) - Structured Data integration with Sulu projects
-- [crevillo/ezplatform-tinymce-html-fieldtype](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype) ([1.0.3](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype/releases/tag/1.0.3), 9 months ago) - 
+- [crevillo/ezplatform-tinymce-html-fieldtype](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype) ([1.0.3](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype/releases/tag/1.0.3), 10 months ago) - 
 
 ---
 
