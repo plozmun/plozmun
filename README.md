@@ -5,14 +5,12 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 ---
 #### 👷 Check out what I'm currently working on
 
-- [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) - PHP Faker integration with Behat (2 months ago)
+- [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) - PHP Faker integration with Behat (3 months ago)
 - [thank-you-php/thank-you-php](https://github.com/thank-you-php/thank-you-php) - Give thanks to PHP - An open letter of gratitude to PHP (3 months ago)
 - [plozmun/plozmun.github.io](https://github.com/plozmun/plozmun.github.io) - Pablo Lozano Portfolio (3 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 months ago)
 - [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io (7 months ago)
 - [crevillo/ezplatform-tinymce-html-fieldtype](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype) -  (10 months ago)
-- [sulu/sulu-docs](https://github.com/sulu/sulu-docs) - Sulu documentation (1 year ago)
-- [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system (1 year ago)
 
 ---
 
