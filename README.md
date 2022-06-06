@@ -10,7 +10,6 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 - [plozmun/plozmun.github.io](https://github.com/plozmun/plozmun.github.io) - Pablo Lozano Portfolio (4 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 months ago)
 - [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io (8 months ago)
-- [crevillo/ezplatform-tinymce-html-fieldtype](https://github.com/crevillo/ezplatform-tinymce-html-fieldtype) -  (1 year ago)
 
 ---
 
