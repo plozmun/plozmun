@@ -16,7 +16,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 
 #### 🔭 Latest releases I've contributed to
 
-- [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) ([2.5.0](https://github.com/sulu/SuluFormBundle/releases/tag/2.5.0), 4 days ago) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io
+- [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) ([2.5.0](https://github.com/sulu/SuluFormBundle/releases/tag/2.5.0), 5 days ago) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.3](https://github.com/symfony/symfony/releases/tag/v6.1.3), 3 weeks ago) - The Symfony PHP framework
 - [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) ([0.2.3](https://github.com/plozmun/BehatFakerExtension/releases/tag/0.2.3), 6 months ago) - PHP Faker integration with Behat
 
