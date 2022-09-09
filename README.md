@@ -10,14 +10,14 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 - [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) - PHP Faker integration with Behat (7 months ago)
 - [thank-you-php/thank-you-php](https://github.com/thank-you-php/thank-you-php) - Give thanks to PHP - An open letter of gratitude to PHP (7 months ago)
 - [plozmun/plozmun.github.io](https://github.com/plozmun/plozmun.github.io) - Pablo Lozano Portfolio (7 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (7 months ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (8 months ago)
 - [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io (1 year ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.4](https://github.com/symfony/symfony/releases/tag/v6.1.4), 1 week ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.4](https://github.com/symfony/symfony/releases/tag/v6.1.4), 2 weeks ago) - The Symfony PHP framework
 - [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) ([2.5.0](https://github.com/sulu/SuluFormBundle/releases/tag/2.5.0), 3 weeks ago) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io
 - [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) ([0.2.3](https://github.com/plozmun/BehatFakerExtension/releases/tag/0.2.3), 7 months ago) - PHP Faker integration with Behat
 
