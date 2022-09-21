@@ -8,7 +8,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 - [mo2o/backend-exercise](https://github.com/mo2o/backend-exercise) -  (2 weeks ago)
 - [plozmun/cv](https://github.com/plozmun/cv) - CV (2 months ago)
 - [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) - PHP Faker integration with Behat (7 months ago)
-- [thank-you-php/thank-you-php](https://github.com/thank-you-php/thank-you-php) - Give thanks to PHP - An open letter of gratitude to PHP (7 months ago)
+- [thank-you-php/thank-you-php](https://github.com/thank-you-php/thank-you-php) - Give thanks to PHP - An open letter of gratitude to PHP (8 months ago)
 - [plozmun/plozmun.github.io](https://github.com/plozmun/plozmun.github.io) - Pablo Lozano Portfolio (8 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (8 months ago)
 
@@ -17,7 +17,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 #### 🔭 Latest releases I've contributed to
 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.4](https://github.com/symfony/symfony/releases/tag/v6.1.4), 3 weeks ago) - The Symfony PHP framework
-- [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) ([0.2.3](https://github.com/plozmun/BehatFakerExtension/releases/tag/0.2.3), 7 months ago) - PHP Faker integration with Behat
+- [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) ([0.2.3](https://github.com/plozmun/BehatFakerExtension/releases/tag/0.2.3), 8 months ago) - PHP Faker integration with Behat
 
 ---
 
