@@ -7,7 +7,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 
 - [mo2o/backend-exercise](https://github.com/mo2o/backend-exercise) -  (1 month ago)
 - [plozmun/cv](https://github.com/plozmun/cv) - CV (3 months ago)
-- [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) - PHP Faker integration with Behat (8 months ago)
+- [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) - PHP Faker integration with Behat (9 months ago)
 - [thank-you-php/thank-you-php](https://github.com/thank-you-php/thank-you-php) - Give thanks to PHP - An open letter of gratitude to PHP (9 months ago)
 - [plozmun/plozmun.github.io](https://github.com/plozmun/plozmun.github.io) - Pablo Lozano Portfolio (9 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (9 months ago)
