@@ -16,7 +16,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA3), 5 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA3), 6 days ago) - The Symfony PHP framework
 - [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) ([0.2.3](https://github.com/plozmun/BehatFakerExtension/releases/tag/0.2.3), 10 months ago) - PHP Faker integration with Behat
 
 ---
