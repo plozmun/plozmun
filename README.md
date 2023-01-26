@@ -14,7 +14,6 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 
 #### 🔭 Latest releases I've contributed to
 
-- [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) ([0.2.3](https://github.com/plozmun/BehatFakerExtension/releases/tag/0.2.3), 1 year ago) - PHP Faker integration with Behat
 
 ---
 
