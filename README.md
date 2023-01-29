@@ -5,7 +5,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 ---
 #### 👷 Check out what I'm currently working on
 
-- [mo2o/backend-exercise](https://github.com/mo2o/backend-exercise) -  (4 months ago)
+- [mo2o/backend-exercise](https://github.com/mo2o/backend-exercise) -  (5 months ago)
 - [plozmun/cv](https://github.com/plozmun/cv) - CV (7 months ago)
 - [plozmun/BehatFakerExtension](https://github.com/plozmun/BehatFakerExtension) - PHP Faker integration with Behat (1 year ago)
 - [thank-you-php/thank-you-php](https://github.com/thank-you-php/thank-you-php) - Give thanks to PHP - An open letter of gratitude to PHP. (1 year ago)
