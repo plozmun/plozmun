@@ -5,7 +5,7 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 ---
 #### 👷 Check out what I'm currently working on
 
-- [mo2o/backend-exercise](https://github.com/mo2o/backend-exercise) -  (6 months ago)
+- [mo2o/backend-exercise](https://github.com/mo2o/backend-exercise) -  (7 months ago)
 - [plozmun/cv](https://github.com/plozmun/cv) - CV (9 months ago)
 
 ---
