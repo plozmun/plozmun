@@ -5,7 +5,6 @@ I'm a software engineer who is passionate about open-source. Some technologies I
 ---
 #### 👷 Check out what I'm currently working on
 
-- [plozmun/mapQueryString-not-nullable](https://github.com/plozmun/mapQueryString-not-nullable) -  (1 day ago)
 - [mo2o/backend-exercise](https://github.com/mo2o/backend-exercise) -  (8 months ago)
 - [plozmun/cv](https://github.com/plozmun/cv) - CV (10 months ago)
 
